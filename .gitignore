@@ -1,7 +1,2 @@
-/build/
-/.gradle/
-/ovh.conf
-/.settings/
-/bin/
-/.classpath
-/.project
+/.idea/
+/target/*
